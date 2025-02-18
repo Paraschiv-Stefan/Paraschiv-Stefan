@@ -3,7 +3,7 @@
 <h3 align="center">A passionate student in programing</h3>
 <img align="right" alt="Codign" witdh="400" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🌱 I’m currently learning **in Iasi at electronic engineering**
+- 🌱 I’m currently learning **at Gheroghe Asachi university in Iasi Romania**
 
 - 📫 How to reach me **stefan.paraschiv1103@gmail.com**
 
