@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Paraschiv Stefan</h1>
 
 
-- 🌱 I’m currently learning **at Gheroghe Asachi university in Iasi Romania**
+- I’m currently learning **at Gheroghe Asachi university in Iasi Romania**
 
 - 📫 How to reach me **stefan.paraschiv1103@gmail.com**
 
