@@ -34,7 +34,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.arduino.cc" target="_blank">
-    <img src="https://e7.pngegg.com/pngimages/758/841/png-clipart-arduino-max-electronic-circuit-pure-data-oscilloscope-raspberry-pi-icons-logo-microcontroller.png" height="60"/>
+    <img src="https://techdecode.online/wp-content/uploads/2024/10/Arduino-Logo.webp" height="60"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.labcenter.com" target="_blank">
