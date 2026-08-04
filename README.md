@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Paraschiv Stefan</h1>
 
-<p align="center">
-🎓 I’m currently studying at <b>Gheorghe Asachi Technical University of Iași</b><br>
+<p align="center"></b><br>
 📫 Contact: <b>stefan.paraschiv1103@gmail.com</b>
 </p>
 
