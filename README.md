@@ -34,5 +34,5 @@
 
 <h3 align="center">🔧 Areas of focus</h3>
 <p align="center">
-  Embedded Systems • Software Development
+  Embedded Systems • Software Development • Hardware Design
 </p>
